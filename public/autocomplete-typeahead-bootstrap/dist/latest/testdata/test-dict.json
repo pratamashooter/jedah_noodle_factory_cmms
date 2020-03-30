@@ -1,0 +1,16 @@
+{
+	"results": [
+		{	
+			"id": 1, "text": "Google Cloud Platform",
+			"icon": "https://pbs.twimg.com/profile_images/966440541859688448/PoHJY3K8_400x400.jpg"
+		},
+		{ 
+			"id": 2, "text": "Amazon AWS",	
+			"icon": "http://photos3.meetupstatic.com/photos/event/5/d/e/0/highres_263124032.jpeg"
+		},
+		{ 
+			"id": 3, "text": "Docker",
+			"icon": "https://www.docker.com/sites/default/files/legal/small_v.png"
+		}
+	]
+}
